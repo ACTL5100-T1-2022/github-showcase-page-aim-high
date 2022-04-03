@@ -1,4 +1,4 @@
-# Actuarial Theory and Practice A
+# Actuarial Theory and Practice A - Aim High
 
 _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
 
