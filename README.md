@@ -20,14 +20,15 @@ More information on GitHub Pages can be found [here](https://pages.github.com/)
 
 ## Objectives 
 Ojectives of Analysis
+ 
  <img width="180" alt="image" src="https://user-images.githubusercontent.com/102893855/162547715-b60c0ab4-3ce5-4b97-82d4-baa7c65293fb.png">
 
--It is beneficial for a nation's economy to have a successful international football team. 
--A machine learning model is implemented for team selection 
--In addition to the allocated budget, our proposal leverages alternate streams of non-government funding.
--Revenues will be gained through matchday, broadcasting, sponsorship, merchandising, and prize money. 
- -The direct and indirect economic impacts were considered by analysing cash flows, effect on GDP, impact on industries and constructing a 10-year implementation plan. 
--The proposal also considers quantifiable and qualitative risks, appropriate mitigation techniques and monitoring metrics. Limitations of the proposal are also included.
+It is beneficial for a nation's economy to have a successful international football team. 
+A machine learning model is implemented for team selection 
+In addition to the allocated budget, our proposal leverages alternate streams of non-government funding.
+Revenues will be gained through matchday, broadcasting, sponsorship, merchandising, and prize money. 
+The direct and indirect economic impacts were considered by analysing cash flows, effect on GDP, impact on industries and constructing a 10-year implementation plan. 
+The proposal also considers quantifiable and qualitative risks, appropriate mitigation techniques and monitoring metrics. Limitations of the proposal are also included.
 
 ## Implentation plan
 ---
