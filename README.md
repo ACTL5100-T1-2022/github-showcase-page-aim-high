@@ -28,27 +28,28 @@ Ojectives of Analysis
  -The direct and indirect economic impacts were considered by analysing cash flows, effect on GDP, impact on industries and constructing a 10-year implementation plan. 
 -The proposal also considers quantifiable and qualitative risks, appropriate mitigation techniques and monitoring metrics. Limitations of the proposal are also included.
 
-### Implentation plan
+## Implentation plan
 ---
-Timeline:
+### Timeline:
 
 ![](Timeline.png)
 
-Monitoring Plan:
+### Monitoring Plan:
 
 Team performance monitoring and player replacement plan
 
 The team committee will monitor the performance of players each season utilising the ML model to gauge players’ performance score. If a player appears to be under-performing during the season, the onus to encourage improvement lies with the coaching staff. Players that continue to underperform for two consecutive seasons despite improvement plans will have their contract renegotiated, or terminated.
 
 
-Key Metrics & Schedule:
+### Key Metrics & Schedule:
 
-Team Financials
+#### Team Financials
 
 ![](Teamfinancial.png)
 
-Economic Indicators
+#### Economic Indicators
 
+![](Economicindicators.png)
 
 
 ## Selecting Rarita's National Team
@@ -120,6 +121,19 @@ Explore the [code](teamselection.R) here!
 
 ---
 
+## Data and Data Limitation
+---
+### Missing Data
+
+Missing player data was treated through removal of any player that had one or more missing observations from the player selection model. This approach was chosen for simplicity and we acknowledge that suitable players may have been unfairly disregarded. A more holistic approach could be to impute missing observations with machine learning methods. 
+
+### Historical Results
+
+The performance of players is dependent on several other factors, which include team synergy, game tactics, effectiveness of coaching and management. The provided “Player Data '' is only a reflection of historical performance and does not guarantee the players’ ability to maintain results. 
+
+### Lack of Economic Data
+
+Important economic indicators, such as unemployment rate, balance of trade, domestic stock market as well as manufacturing and services PMI, are not given in the ‘Economic Data’. Hence, several assumptions are adopted on Rarita’s economy and provinces. There is also an absence of data on the key sectors that drive the nation’s GDP.
 
 
 
