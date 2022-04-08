@@ -20,7 +20,8 @@ More information on GitHub Pages can be found [here](https://pages.github.com/)
 
 
 Ojectives of Analysis
- 
+ <img width="180" alt="image" src="https://user-images.githubusercontent.com/102893855/162547715-b60c0ab4-3ce5-4b97-82d4-baa7c65293fb.png">
+
 -It is beneficial for a nation's economy to have a successful international football team. 
 -A machine learning model is implemented for team selection 
 -In addition to the allocated budget, our proposal leverages alternate streams of non-government funding.
