@@ -17,6 +17,17 @@ This is written in markdown language.
 
 More information on GitHub Pages can be found [here](https://pages.github.com/)
 ![](Actuarial.gif)
+###Objectives of Analysis
+ 
+-It is beneficial for a nation's economy to have a successful international football team. 
+-A machine learning model is implemented for team selection 
+-In addition to the allocated budget, our proposal leverages alternate streams of non-government funding.
+-Revenues will be gained through matchday, broadcasting, sponsorship, merchandising, and prize money. 
+ -The direct and indirect economic impacts were considered by analysing cash flows, effect on GDP, impact on industries and constructing a 10-year implementation plan. 
+-The proposal also considers quantifiable and qualitative risks, appropriate mitigation techniques and monitoring metrics. Limitations of the proposal are also included.
+
+
+
 ### Assumptions for the Rarita's national team construction: 
 
 ---
