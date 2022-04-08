@@ -17,7 +17,9 @@ This is written in markdown language.
 
 More information on GitHub Pages can be found [here](https://pages.github.com/)
 ![](Actuarial.gif)
-###Objectives of Analysis
+
+
+Ojectives of Analysis
  
 -It is beneficial for a nation's economy to have a successful international football team. 
 -A machine learning model is implemented for team selection 
