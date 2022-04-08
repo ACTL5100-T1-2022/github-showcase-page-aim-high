@@ -82,7 +82,8 @@ Explore the [code](teamselection.R) here!
 
 ---
 
-![](riskmap.fig10.png)
+<img width="700" alt="image" src="https://github.com/ACTL5100-T1-2022/github-showcase-page-aim-high/blob/main/riskmap.fig10.png">
+
 
 | Scenarios  | Assumptions |
 | ------------- | ------------- |
