@@ -28,9 +28,45 @@ Ojectives of Analysis
  -The direct and indirect economic impacts were considered by analysing cash flows, effect on GDP, impact on industries and constructing a 10-year implementation plan. 
 -The proposal also considers quantifiable and qualitative risks, appropriate mitigation techniques and monitoring metrics. Limitations of the proposal are also included.
 
+## Selecting Rarita's National Team
+
+---
+
+We define a simple metric to measure the performance:
+
+Performance Score (p.score) = W + 0.5D
+where  W = Win and;
+	D = Draw
+
+_Data is sourced from League Goalkeeping. League statistics are used as data quality is better than Tournament (38 games for all squads, less missing observations)_
+
+To account for squads with multiple goalkeepers, the p.score is weighted by the proportion of minutes played for each GK. This gives:
+
+p.score = ∑_(for all i)▒〖ω_i (W_i+0.5D_i)〗
+ where ω_i  =  (Playing time Min of goalkeeper i)/(∑_(for all i)▒〖Playing time Min of goalkeeper i〗)  and;
+
+i = number of goalkeepers in a squad
+
+The p.score is then mapped to all players in that squad. All players in the same squad will have the same p.score
+
+The team selection process uses a Support Vector Machine classification model. This Machine Learning model is trained on League players (excluding Raritan) and classify if players are ‘competitive’ based on squad results.
+
+_We acknowledge that player selection will never be an exact science, and there are human elements that our quantitative model cannot account for (e.g. synergy, discipline etc.) Therefore, the coaching staff will apply their judgement in the selection of the final National roster from the ‘competitive’ player pool identified by our model._
+
+![](teamselection.fig5.1.png)
+
+![](teamselection.fig5.2.png)
+
+* Likelihood of top 10 finish in FSA league within 5 years: 87.2%
+* Likelihood of FSA championship within 10 years: 84.2%
 
 
-### Assumptions for the Rarita's national team construction: 
+See the players selected for the [Rarita National Team](Team%20selection.csv) here!
+
+Explore the [code](teamselection.R) here!
+
+
+## Assumptions for the Rarita's national team construction: 
 
 ---
 
@@ -41,5 +77,25 @@ Ojectives of Analysis
 <img width="613" alt="image" src="https://user-images.githubusercontent.com/102893474/162423669-6888672e-2ea5-4767-a23e-1f2adda83c8d.png">
 
 ---
+
+## Risks and Mitigation Approaches
+
+---
+
+![](riskmap.fig10.png)
+
+| Scenarios  | Assumptions |
+| ------------- | ------------- |
+| High inflation  | 100bps increase in projected inflation  |
+| Bearish equity market  | -30% investment returns in projection years 4 and 9  |
+| Subdued operating revenue growth | Annual growth from all revenue streams capped at 10% |
+
+![](scenarios.fig11.png)
+
+![](sensitivity.fig12.png)
+
+---
+
+
 
 
