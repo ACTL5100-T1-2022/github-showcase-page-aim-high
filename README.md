@@ -17,3 +17,16 @@ This is written in markdown language.
 
 More information on GitHub Pages can be found [here](https://pages.github.com/)
 ![](Actuarial.gif)
+### Assumptions for the Rarita's national team construction: 
+
+---
+
+#### -> the general numerial assumptions listed below 
+<img width="490" alt="image" src="https://user-images.githubusercontent.com/102893474/162420816-e28a16d0-8641-4390-8a2c-bb8cc7556e35.png">
+ 
+#### -> other key assumptions made for the entire process
+<img width="613" alt="image" src="https://user-images.githubusercontent.com/102893474/162423669-6888672e-2ea5-4767-a23e-1f2adda83c8d.png">
+
+---
+
+
