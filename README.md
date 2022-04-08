@@ -28,6 +28,27 @@ Ojectives of Analysis
  -The direct and indirect economic impacts were considered by analysing cash flows, effect on GDP, impact on industries and constructing a 10-year implementation plan. 
 -The proposal also considers quantifiable and qualitative risks, appropriate mitigation techniques and monitoring metrics. Limitations of the proposal are also included.
 
+### Implentation plan
+---
+Timeline:
+
+![](Timeline.png)
+
+Monitoring Plan:
+
+Team performance monitoring and player replacement plan
+
+The team committee will monitor the performance of players each season utilising the ML model to gauge players’ performance score. If a player appears to be under-performing during the season, the onus to encourage improvement lies with the coaching staff. Players that continue to underperform for two consecutive seasons despite improvement plans will have their contract renegotiated, or terminated.
+
+
+Key Metrics & Schedule:
+
+Team Financials
+
+Economic Indicators
+
+
+
 ## Selecting Rarita's National Team
 
 ---
