@@ -139,6 +139,7 @@ Selection of the team’s base location plays an important role in shaping the f
 <img width="490" alt="image" src="https://user-images.githubusercontent.com/102893474/162420816-e28a16d0-8641-4390-8a2c-bb8cc7556e35.png">
  
 #### -> other key assumptions made for the entire process
+
 | Assumptions  | Rationale |
 | ------------- | ------------- |
 | Performance score metric  | Assume that the individual performance metric of each other player will inform the actual future perfromance of the National team  |
