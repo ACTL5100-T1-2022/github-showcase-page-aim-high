@@ -40,7 +40,6 @@ The team committee will monitor the performance of players each season utilising
 
 #### Team Financials
 
-![](Teamfinancial.png)
 
 | Name  | Calculation |	Purpose	| Accenptable range | Frequency |
 | ------------- | ------------- |
@@ -52,7 +51,10 @@ The team committee will monitor the performance of players each season utilising
 
 #### Economic Indicators
 
-![](Economicindicators.png)
+| Name | Calculation | Purpose | Acceptable Range | Frequency |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Direct GDP Impact Ratio | Team’s direct GDP impact/ National GDP | Estimate scale of impact of team on nation’s GDP | >0.1% in 2022-2028,>0.3% in 2029-2021, | Annually |
+| Direct GDP Impact Growth | (GDP impact t/ GDP impact t-1) - 1 | Estimate change in GDP impact | >8% in 2023-2025;>20% in 2026-2031 | Annually |
 
 
 ## Selecting Rarita's National Team
