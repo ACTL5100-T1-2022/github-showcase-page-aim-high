@@ -30,6 +30,8 @@ In addition to the allocated budget, our proposal leverages alternate streams of
 
 Revenues will be gained through matchday, broadcasting, sponsorship, merchandising, and prize money. 
 
+<img width="376" alt="image" src="https://user-images.githubusercontent.com/102893855/162548117-5c9ed174-4f13-4060-9ef9-3aa653af983b.png">
+
 The direct and indirect economic impacts were considered by analysing cash flows, effect on GDP, impact on industries and constructing a 10-year implementation plan. 
 
 The proposal also considers quantifiable and qualitative risks, appropriate mitigation techniques and monitoring metrics. Limitations of the proposal are also included.
