@@ -23,6 +23,8 @@ The direct and indirect economic impacts were considered by analysing cash flows
 
 The proposal also considers quantifiable and qualitative risks, appropriate mitigation techniques and monitoring metrics. Limitations of the proposal are also included.
 
+---
+
 ## Implentation plan
 ---
 ### Timeline:
@@ -56,6 +58,7 @@ The team committee will monitor the performance of players each season utilising
 | Direct GDP Impact Ratio | Team’s direct GDP impact/ National GDP | Estimate scale of impact of team on nation’s GDP | >0.1% in 2022-2028,>0.3% in 2029-2021, | Annually |
 | Direct GDP Impact Growth | (GDP impact t/ GDP impact t-1) - 1 | Estimate change in GDP impact | >8% in 2023-2025;>20% in 2026-2031 | Annually |
 
+---
 
 ## Selecting Rarita's National Team
 
@@ -89,6 +92,7 @@ See the players selected for the [Rarita National Team](Team%20selection.csv) he
 
 Explore the [code](teamselection.R) here!
 
+---
 
 ## Analysis of Revenue & Expense
 
@@ -106,6 +110,7 @@ This is the greatest contributor to the aggregate revenue’s exponential growth
 #### Investing and Financing Activities
 This investment strategy enables sustainable capital growth. With net proceeds re-invested and drawdowns allowed, the fund provides an equity pool that increased 65.7% from DOU500mn to DOU829mn over the 10 years. Net proceeds from the sale of stadium ownership and capital earned from taking profits of securities in 2028 and 2030 will have material impact in increasing the cash balance.
 
+---
 
 ## Economic Impact 
 
