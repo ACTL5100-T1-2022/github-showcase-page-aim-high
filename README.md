@@ -25,7 +25,7 @@ The proposal also considers quantifiable and qualitative risks, appropriate miti
 
 ---
 
-## Implentation plan
+## Implementation plan
 ---
 ### Timeline:
 
@@ -33,7 +33,7 @@ The proposal also considers quantifiable and qualitative risks, appropriate miti
 
 ### Monitoring Plan:
 
-Team performance monitoring and player replacement plan
+#### Team performance monitoring and player replacement plan
 
 The team committee will monitor the performance of players each season utilising the ML model to gauge players’ performance score. If a player appears to be under-performing during the season, the onus to encourage improvement lies with the coaching staff. Players that continue to underperform for two consecutive seasons despite improvement plans will have their contract renegotiated, or terminated.
 
