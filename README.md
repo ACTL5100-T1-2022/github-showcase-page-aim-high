@@ -139,8 +139,13 @@ Selection of the team’s base location plays an important role in shaping the f
 <img width="490" alt="image" src="https://user-images.githubusercontent.com/102893474/162420816-e28a16d0-8641-4390-8a2c-bb8cc7556e35.png">
  
 #### -> other key assumptions made for the entire process
-<img width="613" alt="image" src="https://user-images.githubusercontent.com/102893474/162423669-6888672e-2ea5-4767-a23e-1f2adda83c8d.png">
-
+| Assumptions  | Rationale |
+| ------------- | ------------- |
+| Performance score metric  | Assume that the individual performance metric of each other player will inform the actual future perfromance of the National team  |
+| Investment fund | Assume the funds would generate a minimum nominal return of 6.2% p.a  |
+| GDP growth | Assume using the expenditure approach for future national GDP projections |
+| Inflation | During Covid-19 : cuts to zero After Covid-19 : target 2% forwards |
+| Interest rate | Assume using 2021 Rarita nominal spot yield with a risk premium of 0.02% | 
 ---
 
 ## Risks and Mitigation Approaches
