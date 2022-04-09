@@ -27,7 +27,7 @@ The proposal also considers quantifiable and qualitative risks, appropriate miti
 ---
 ### Timeline:
 
-![](Timeline.png)
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/102893898/162552975-e4afbca2-4f2b-413c-a735-699369630198.png">
 
 ### Monitoring Plan:
 
