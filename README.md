@@ -80,6 +80,32 @@ See the players selected for the [Rarita National Team](Team%20selection.csv) he
 Explore the [code](teamselection.R) here!
 
 
+## Analysis of Revenue & Expense
+
+### Cash Flow Model
+
+![](
+
+### Direct revenue and expenses are described below:
+#### Operating Activities
+
+This is the greatest contributor to the aggregate revenue’s exponential growth. Since the first few months are used for player selection and onboarding, matches will proceed from Q4 2022. As the team achieves more success, we expect uplift in matchday, broadcasting, and endorsement revenues. Staff costs will rise to support the rapid expansion of operations. Upon the completion of the stadium and training venue construction in 2026, cash previously deployed to service facility management expenses will now be used for new building maintenance.
+
+#### Investing and Financing Activities
+This investment strategy enables sustainable capital growth. With net proceeds re-invested and drawdowns allowed, the fund provides an equity pool that increased 65.7% from DOU500mn to DOU829mn over the 10 years. Net proceeds from the sale of stadium ownership and capital earned from taking profits of securities in 2028 and 2030 will have material impact in increasing the cash balance.
+
+
+## Economic Impact 
+
+![](
+
+### Impact on Industries
+As a result of the team’s success, the sports industry will be most directly and positively impacted. The stadium project will boost the construction industry. As Rarita improves its competitiveness on the international sports arena, the interest garnered will attract supporters to visit and watch their favourite players participate in live matches, thus benefiting local tourism and the hospitality sector.
+
+### Social Impact on Provinces
+Selection of the team’s base location plays an important role in shaping the future of different provinces and Rarita’s overall economy. Upon consideration of each region’s socioeconomic indicators, East Rarita emerges as the wealthiest province with a strong presence of multinational corporations and comparatively better living standards. Hence, in order to reduce economic inequality, the team will be based in West Rarita and allow this province to benefit significantly from Rarita’s overall growth strategy. Containing more than half of Rarita’s population, the marginal impact on West Rarita’s citizens will be greater, expanding employment opportunities and household income to create inter-generational wealth.
+
+
 ## Assumptions for the Rarita's national team construction: 
 
 ---
