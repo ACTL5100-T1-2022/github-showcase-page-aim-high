@@ -190,4 +190,4 @@ The performance of players is dependent on several other factors, which include 
 Important economic indicators, such as unemployment rate, balance of trade, domestic stock market as well as manufacturing and services PMI, are not given in the ‘Economic Data’. Hence, several assumptions are adopted on Rarita’s economy and provinces. There is also an absence of data on the key sectors that drive the nation’s GDP.
 
 
-Thank you for reading :) 
+### Thank you for reading :) 
