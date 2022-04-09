@@ -122,7 +122,7 @@ Selection of the team’s base location plays an important role in shaping the f
 
 ---
 
-All considered risks are captured in a lIklihood-Impact plane.
+All considered risks are captured in a Likelihood-Impact plane.
 
 <img width="700" alt="image" src="https://github.com/ACTL5100-T1-2022/github-showcase-page-aim-high/blob/main/riskmap.fig10.png">
 
