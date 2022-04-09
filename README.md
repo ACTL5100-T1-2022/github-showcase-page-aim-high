@@ -11,7 +11,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 It is beneficial for a nation's economy to have a successful international football team. 
 
-A machine learning model is implemented for team selection 
+A machine learning model is implemented for team selection.
 
 In addition to the allocated budget, our proposal leverages alternate streams of non-government funding.
 
