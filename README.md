@@ -107,7 +107,13 @@ This investment strategy enables sustainable capital growth. With net proceeds r
 
 ## Economic Impact 
 
-![](
+| Economic Index  | Predicted Change (relative to Team Success) |
+| ------------- | ------------- |
+| GDP Growth Rate  | Increase - Operating revenues and initial budget granted by the government are taken as direct contributors to GDP. Against national GDP forecasts, the team will generate 0.80% of the nation’s GDP in 2031; a nominal increase of DOU3.4bn. A conservative estimate of the indirect economic impact is ~0.5%, primarily driven by tourism and tax revenues. |
+| Employment Rate  | Increase - The project is expected to create 20,000 jobs across the National team, stadium construction and the increased demand for skilled labour involved in manufacturing, distribution and selling of merchandise. |
+| Inflation Rate (CPI) | Neutral - Rarita’s inflation calculation is similar to that of the European Central Bank’s Harmonised Index of Consumer Prices. Referring to figure 9, ‘Recreation and Culture’ represents only 3.1% of the total, the team should not meaningfully affect inflation. |
+| Consumer Spending  | Increase - Consumer spending is expected to rise alongside the popularity of recreational football. Ultimately, this will increase the quality of life enjoyed by Rarita citizens, drive the nation’s modernisation, and decrease social disparity among provinces. |
+| FX (EURDOU) | Increase - With the assumption that Rarita is an emerging economy that will hike rates faster than the ECB, DOU appreciation is expected to reflect the change in interest rate differentials, along with improvement in trade balance and domestic growth. |
 
 ### Impact on Industries
 As a result of the team’s success, the sports industry will be most directly and positively impacted. The stadium project will boost the construction industry. As Rarita improves its competitiveness on the international sports arena, the interest garnered will attract supporters to visit and watch their favourite players participate in live matches, thus benefiting local tourism and the hospitality sector.
