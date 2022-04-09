@@ -92,6 +92,8 @@ Explore the [code](teamselection.R) here!
 
 ## Analysis of Revenue & Expense
 
+---
+
 ### Cash Flow Model
 
 ![](
@@ -106,6 +108,8 @@ This investment strategy enables sustainable capital growth. With net proceeds r
 
 
 ## Economic Impact 
+
+---
 
 | Economic Index  | Predicted Change (relative to Team Success) |
 | ------------- | ------------- |
