@@ -148,7 +148,7 @@ Selection of the team’s base location plays an important role in shaping the f
 
 All considered risks are captured in a Likelihood-Impact plane.
 
-<img width="600" alt="image" src="https://github.com/ACTL5100-T1-2022/github-showcase-page-aim-high/blob/main/riskmap.fig10.png">
+<img width="400" alt="image" src="https://github.com/ACTL5100-T1-2022/github-showcase-page-aim-high/blob/main/riskmap.fig10.png">
 
 We see that Economic Recession is both high Impact and high Likelihood, and thus a key risk. Further investigation of this risk is conducted below:
 
@@ -160,6 +160,8 @@ We see that Economic Recession is both high Impact and high Likelihood, and thus
 
 * Assessment
 
+We consider the three scenarios below. Future cash flows appear highly sensitive to revenue growth rates. This is further investigated through sensitivity analysis and we recommend a tolerable range of >-10% deviation of actual experience from projected growth. 
+
 | Scenarios  | Assumptions |
 | ------------- | ------------- |
 | High Inflation  | 100bps increase in projected inflation  |
@@ -169,8 +171,6 @@ We see that Economic Recession is both high Impact and high Likelihood, and thus
 ![](scenarios.fig11.png)
 
 ![](sensitivity.fig12.png)
-
-	We consider the three scenarios above. Future cash flows appear highly sensitive to revenue growth rates. This is further investigated through sensitivity analysis and we recommend a tolerable range of >-10% deviation of actual experience from projected growth. 
 
 * Treatment
 
@@ -188,4 +188,5 @@ The performance of players is dependent on several other factors, which include 
 
 ### Lack of Economic Data
 Important economic indicators, such as unemployment rate, balance of trade, domestic stock market as well as manufacturing and services PMI, are not given in the ‘Economic Data’. Hence, several assumptions are adopted on Rarita’s economy and provinces. There is also an absence of data on the key sectors that drive the nation’s GDP.
+
 
