@@ -1,7 +1,5 @@
 # Actuarial Theory and Practice A - Aim High
 
-_"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
-
 ---
 
 ## Objectives 
@@ -33,22 +31,19 @@ The proposal also considers quantifiable and qualitative risks, appropriate miti
 
 ### Monitoring Plan:
 
-#### Team performance monitoring and player replacement plan
+#### Team Performance Monitoring & Player Replacement Plan
 
 The team committee will monitor the performance of players each season utilising the ML model to gauge players’ performance score. If a player appears to be under-performing during the season, the onus to encourage improvement lies with the coaching staff. Players that continue to underperform for two consecutive seasons despite improvement plans will have their contract renegotiated, or terminated.
-
 
 ### Key Metrics & Schedule:
 
 #### Team Financials
 
-
-| Name  | Calculation |	Purpose	| Accenptable range | Frequency |
+| Name  | Calculation |	Purpose	| Acceptable Range | Frequency |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Operating Profit Margin  | Net CF from operations/ Operating revenue | Estimate op. profit compared to op. revenue | >10% in 2022-2025; >50% in 2026-2028; >65% in 2029-2031 | Quarterly |
 | Net Profit Margin | Net CF/ Total revenue | Assess overall profit compared to overall revenue | >0% in 2023-2025; >40% in 2026-2028; >60% in 2029-2031 | Quarterly |
 | Return on Player Salaries | Net CF from operations/ Total player salaries | Evaluate op. profit gained vs. player salaries paid out | >20% in 2022-2025; >100% in 2026-2028; >250% in 2029-2031 | Quarterly |
-
 
 
 #### Economic Indicators
@@ -87,7 +82,6 @@ _We acknowledge that player selection will never be an exact science, and there 
 * Likelihood of top 10 finish in FSA league within 5 years: 87.2%
 * Likelihood of FSA championship within 10 years: 84.2%
 
-
 See the players selected for the [Rarita National Team](Team%20selection.csv) here!
 
 Explore the [code](teamselection.R) here!
@@ -102,7 +96,7 @@ Explore the [code](teamselection.R) here!
 
 <img width="765" alt="image" src="https://user-images.githubusercontent.com/102893898/162551873-8a56bc8e-69eb-4300-92d7-5b996e512979.png">
 
-### Direct revenue and expenses are described below:
+### Direct Revenue and Expenses
 #### Operating Activities
 
 This is the greatest contributor to the aggregate revenue’s exponential growth. Since the first few months are used for player selection and onboarding, matches will proceed from Q4 2022. As the team achieves more success, we expect uplift in matchday, broadcasting, and endorsement revenues. Staff costs will rise to support the rapid expansion of operations. Upon the completion of the stadium and training venue construction in 2026, cash previously deployed to service facility management expenses will now be used for new building maintenance.
@@ -130,27 +124,25 @@ As a result of the team’s success, the sports industry will be most directly a
 ### Social Impact on Provinces
 Selection of the team’s base location plays an important role in shaping the future of different provinces and Rarita’s overall economy. Upon consideration of each region’s socioeconomic indicators, East Rarita emerges as the wealthiest province with a strong presence of multinational corporations and comparatively better living standards. Hence, in order to reduce economic inequality, the team will be based in West Rarita and allow this province to benefit significantly from Rarita’s overall growth strategy. Containing more than half of Rarita’s population, the marginal impact on West Rarita’s citizens will be greater, expanding employment opportunities and household income to create inter-generational wealth.
 
-
-## Assumptions for the Rarita's national team construction: 
-
+## Assumptions for Rarita's National Team Construction: 
 ---
 
-####  the general numerial assumptions listed below 
+####  Overview of Quantitative Assumptions 
 <img width="490" alt="image" src="https://user-images.githubusercontent.com/102893474/162420816-e28a16d0-8641-4390-8a2c-bb8cc7556e35.png">
  
-####  other key assumptions made for the entire process
+####  Key Assumptions
 
 | Assumptions  | Rationale |
 | ------------- | ------------- |
-| Performance score metric  | Assume that the individual performance metric of each other player will inform the actual future perfromance of the National team  |
-| Investment fund | Assume the funds would generate a minimum nominal return of 6.2% p.a  |
-| GDP growth | Assume using the expenditure approach for future national GDP projections |
-| Inflation | During Covid-19 : cuts to zero After Covid-19 : target 2% forwards |
-| Interest rate | Assume using 2021 Rarita nominal spot yield with a risk premium of 0.02% | 
+| Performance Score Metric  | Individual performance metric of each other player will inform the actual future performance of the National team. |
+| Investment Fund | Fund will follow manadate to  generate a minimum nominal return of 6.2% pa. |
+| GDP growth | The expenditure approach is a well-suited method for future national GDP projections. |
+| Inflation | Since the Central Bank adopted monetary easing as reflected in the rate cuts to zero in 2020, perhaps as a COVID-19 response, Rarita is likely experiencing a period of accelerating inflation. Hence, the model assumes the Central Bank targets an inflation band and returns to reach the 2% target from 2026 and onwards. |
+| Interest rate | The 2021 Rarita nominal spot yield with a risk premium of 0.02% is used to account for the team's low default probability and high credit rating.| 
 
 ---
 
-## Risks and Mitigation Approaches
+## Risks & Mitigation Approaches
 
 ---
 
@@ -158,7 +150,7 @@ All considered risks are captured in a Likelihood-Impact plane.
 
 <img width="700" alt="image" src="https://github.com/ACTL5100-T1-2022/github-showcase-page-aim-high/blob/main/riskmap.fig10.png">
 
-We see that Economic Recession is both high Impact and high Lkelihood, and thus a key risk. Further investigation of this risk is conducted below:
+We see that Economic Recession is both high Impact and high Likelihood, and thus a key risk. Further investigation of this risk is conducted below:
 
 #### Economic Recession
 
@@ -170,9 +162,9 @@ We see that Economic Recession is both high Impact and high Lkelihood, and thus 
 
 | Scenarios  | Assumptions |
 | ------------- | ------------- |
-| High inflation  | 100bps increase in projected inflation  |
-| Bearish equity market  | -30% investment returns in projection years 4 and 9  |
-| Subdued operating revenue growth | Annual growth from all revenue streams capped at 10% |
+| High Inflation  | 100bps increase in projected inflation  |
+| Bearish Equity Market  | -30% investment returns in projection years 4 and 9  |
+| Subdued Operating Revenue Growth | Annual growth from all revenue streams capped at 10% |
 
 ![](scenarios.fig11.png)
 
@@ -189,16 +181,11 @@ We consider the three scenarios above. Future cash flows appear highly sensitive
 ## Data and Data Limitation
 ---
 ### Missing Data
-
 Missing player data was treated through removal of any player that had one or more missing observations from the player selection model. This approach was chosen for simplicity and we acknowledge that suitable players may have been unfairly disregarded. A more holistic approach could be to impute missing observations with machine learning methods. 
 
 ### Historical Results
-
-The performance of players is dependent on several other factors, which include team synergy, game tactics, effectiveness of coaching and management. The provided “Player Data '' is only a reflection of historical performance and does not guarantee the players’ ability to maintain results. 
+The performance of players is dependent on several other factors, which include team synergy, game tactics, effectiveness of coaching and management. The provided “Player Data" is only a reflection of historical performance and does not guarantee the players’ ability to maintain results. 
 
 ### Lack of Economic Data
-
 Important economic indicators, such as unemployment rate, balance of trade, domestic stock market as well as manufacturing and services PMI, are not given in the ‘Economic Data’. Hence, several assumptions are adopted on Rarita’s economy and provinces. There is also an absence of data on the key sectors that drive the nation’s GDP.
-
-
 
