@@ -148,7 +148,7 @@ Selection of the team’s base location plays an important role in shaping the f
 
 All considered risks are captured in a Likelihood-Impact plane.
 
-<img width="700" alt="image" src="https://github.com/ACTL5100-T1-2022/github-showcase-page-aim-high/blob/main/riskmap.fig10.png">
+<img width="600" alt="image" src="https://github.com/ACTL5100-T1-2022/github-showcase-page-aim-high/blob/main/riskmap.fig10.png">
 
 We see that Economic Recession is both high Impact and high Likelihood, and thus a key risk. Further investigation of this risk is conducted below:
 
@@ -170,7 +170,7 @@ We see that Economic Recession is both high Impact and high Likelihood, and thus
 
 ![](sensitivity.fig12.png)
 
-We consider the three scenarios above. Future cash flows appear highly sensitive to revenue growth rates. This is further investigated through sensitivity analysis and we recommend a tolerable range of >-10% deviation of actual experience from projected growth. 
+	We consider the three scenarios above. Future cash flows appear highly sensitive to revenue growth rates. This is further investigated through sensitivity analysis and we recommend a tolerable range of >-10% deviation of actual experience from projected growth. 
 
 * Treatment
 
