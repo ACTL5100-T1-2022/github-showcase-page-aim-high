@@ -73,11 +73,11 @@ The p.score is then mapped to all players in that squad. All players in the same
 
 The team selection process uses a Support Vector Machine classification model. This Machine Learning model is trained on League players (excluding Raritan) and classify if players are ‘competitive’ based on squad results.
 
-_We acknowledge that player selection will never be an exact science, and there are human elements that our quantitative model cannot account for (e.g. synergy, discipline etc.) Therefore, the coaching staff will apply their judgement in the selection of the final National roster from the ‘competitive’ player pool identified by our model._
+_Note: We acknowledge that player selection will never be an exact science, and there are human elements that our quantitative model cannot account for (e.g. synergy, discipline etc.) Therefore, the coaching staff will apply their judgement in the selection of the final National roster from the ‘competitive’ player pool identified by our model._
 
-![](teamselection.fig5.1.png)
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/102893898/162553144-e87cc618-1903-44f5-a840-74c6c7ccf432.png">
 
-![](teamselection.fig5.2.png)
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/102893898/162553147-c83530e2-bc5d-44db-ba3c-0c424e7978d9.png">
 
 * Likelihood of top 10 finish in FSA league within 5 years: 87.2%
 * Likelihood of FSA championship within 10 years: 84.2%
@@ -160,7 +160,7 @@ We see that Economic Recession is both high Impact and high Likelihood, and thus
 
 * Assessment
 
-We consider the three scenarios below. Future cash flows appear highly sensitive to revenue growth rates. This is further investigated through sensitivity analysis and we recommend a tolerable range of >-10% deviation of actual experience from projected growth. 
+	We consider the three scenarios below. Future cash flows appear highly sensitive to revenue growth rates. This is further investigated through sensitivity analysis and we recommend a tolerable range of >-10% deviation of actual experience from projected growth. 
 
 | Scenarios  | Assumptions |
 | ------------- | ------------- |
@@ -168,9 +168,9 @@ We consider the three scenarios below. Future cash flows appear highly sensitive
 | Bearish Equity Market  | -30% investment returns in projection years 4 and 9  |
 | Subdued Operating Revenue Growth | Annual growth from all revenue streams capped at 10% |
 
-![](scenarios.fig11.png)
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/102893898/162553160-83a50989-419c-4afd-afea-c2fb3f665a65.png">
 
-![](sensitivity.fig12.png)
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/102893898/162553167-a3ef8e3e-c8f1-4d22-bb7d-0f2ebe0fe2a0.png">
 
 * Treatment
 
@@ -190,3 +190,4 @@ The performance of players is dependent on several other factors, which include 
 Important economic indicators, such as unemployment rate, balance of trade, domestic stock market as well as manufacturing and services PMI, are not given in the ‘Economic Data’. Hence, several assumptions are adopted on Rarita’s economy and provinces. There is also an absence of data on the key sectors that drive the nation’s GDP.
 
 
+Thank you for reading :) 
