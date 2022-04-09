@@ -135,10 +135,10 @@ Selection of the team’s base location plays an important role in shaping the f
 | Assumptions  | Rationale |
 | ------------- | ------------- |
 | Performance Score Metric  | Individual performance metric of each other player will inform the actual future performance of the National team. |
-| Investment Fund | Fund will follow manadate to  generate a minimum nominal return of 6.2% pa. |
+| Investment Fund | Fund will follow the mandate to generate a minimum nominal return of 6.2% pa. |
 | GDP growth | The expenditure approach is a well-suited method for future national GDP projections. |
 | Inflation | Since the Central Bank adopted monetary easing as reflected in the rate cuts to zero in 2020, perhaps as a COVID-19 response, Rarita is likely experiencing a period of accelerating inflation. Hence, the model assumes the Central Bank targets an inflation band and returns to reach the 2% target from 2026 and onwards. |
-| Interest rate | The 2021 Rarita nominal spot yield with a risk premium of 0.02% is used to account for the team's low default probability and high credit rating.| 
+| Interest rate | The 2021 Rarita nominal spot yield with a risk premium of 0.02% is used to account for the team's low default probability and high credit rating.  | 
 
 ---
 
