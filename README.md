@@ -44,17 +44,9 @@ The team committee will monitor the performance of players each season utilising
 
 | Name  | Calculation |	Purpose	| Accenptable range | Frequency |
 | ------------- | ------------- |
-| Operating Profit Margin  | Net CF from operations/ Operating revenue | Estimate op. profit compared to op. revenue | >10% in 2022-2025;
->50% in 2026-2028;
->65% in 2029-2031 | Quarterly |
-
-| Net Profit Margin | Net CF/ Total revenue | Assess overall profit compared to overall revenue | >0% in 2023-2025;
->40% in 2026-2028;
->60% in 2029-2031 | Quarterly |
-
-| Return on Player Salaries | Net CF from operations/ Total player salaries | Evaluate op. profit gained vs. player salaries paid out | >20% in 2022-2025;
->100% in 2026-2028;
->250% in 2029-2031 | Quarterly |
+| Operating Profit Margin  | Net CF from operations/ Operating revenue | Estimate op. profit compared to op. revenue | >10% in 2022-2025; >50% in 2026-2028; >65% in 2029-2031 | Quarterly |
+| Net Profit Margin | Net CF/ Total revenue | Assess overall profit compared to overall revenue | >0% in 2023-2025; >40% in 2026-2028; >60% in 2029-2031 | Quarterly |
+| Return on Player Salaries | Net CF from operations/ Total player salaries | Evaluate op. profit gained vs. player salaries paid out | >20% in 2022-2025; >100% in 2026-2028; >250% in 2029-2031 | Quarterly |
 
 
 
