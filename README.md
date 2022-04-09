@@ -147,6 +147,7 @@ Selection of the team’s base location plays an important role in shaping the f
 | GDP growth | Assume using the expenditure approach for future national GDP projections |
 | Inflation | During Covid-19 : cuts to zero After Covid-19 : target 2% forwards |
 | Interest rate | Assume using 2021 Rarita nominal spot yield with a risk premium of 0.02% | 
+
 ---
 
 ## Risks and Mitigation Approaches
