@@ -27,7 +27,7 @@ The proposal also considers quantifiable and qualitative risks, appropriate miti
 ---
 ### Timeline:
 
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/102893898/162552975-e4afbca2-4f2b-413c-a735-699369630198.png">
+<img width="580" alt="image" src="https://user-images.githubusercontent.com/102893898/162552975-e4afbca2-4f2b-413c-a735-699369630198.png">
 
 ### Monitoring Plan:
 
@@ -61,13 +61,13 @@ The team committee will monitor the performance of players each season utilising
 
 We define a simple metric to measure the performance:
 
-![](pscore.formula1.png)
+<img width="290" alt="image" src="https://user-images.githubusercontent.com/102893898/162553388-b058d0a4-ce9e-4db3-adbe-12ec78249ded.png">
 
 _Data is sourced from League Goalkeeping. League statistics are used as data quality is better than Tournament (38 games for all squads, less missing observations)_
 
 To account for squads with multiple goalkeepers, the p.score is weighted by the proportion of minutes played for each GK. This gives:
 
-![](pscore.formula2.png)
+<img width="290" alt="image" src="https://user-images.githubusercontent.com/102893898/162553401-882fedfa-0baf-422d-9f85-753e755cea25.png">
 
 The p.score is then mapped to all players in that squad. All players in the same squad will have the same p.score
 
@@ -128,7 +128,7 @@ Selection of the team’s base location plays an important role in shaping the f
 ---
 
 ####  Overview of Quantitative Assumptions 
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/102893898/162553282-3c149635-f6f2-4c00-a81b-455bb62de360.png">
+<img width="520" alt="image" src="https://user-images.githubusercontent.com/102893898/162553282-3c149635-f6f2-4c00-a81b-455bb62de360.png">
  
 ####  Key Assumptions
 
