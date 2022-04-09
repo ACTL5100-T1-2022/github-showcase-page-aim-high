@@ -100,7 +100,7 @@ Explore the [code](teamselection.R) here!
 
 ### Cash Flow Model
 
-![](
+<img width="765" alt="image" src="https://user-images.githubusercontent.com/102893898/162551873-8a56bc8e-69eb-4300-92d7-5b996e512979.png">
 
 ### Direct revenue and expenses are described below:
 #### Operating Activities
