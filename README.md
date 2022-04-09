@@ -128,7 +128,7 @@ Selection of the team’s base location plays an important role in shaping the f
 ---
 
 ####  Overview of Quantitative Assumptions 
-<img width="490" alt="image" src="https://user-images.githubusercontent.com/102893474/162420816-e28a16d0-8641-4390-8a2c-bb8cc7556e35.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/102893898/162553282-3c149635-f6f2-4c00-a81b-455bb62de360.png">
  
 ####  Key Assumptions
 
