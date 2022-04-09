@@ -20,7 +20,7 @@ More information on GitHub Pages can be found [here](https://pages.github.com/)
 
 ## Objectives 
  
- <img width="180" alt="image" src="https://user-images.githubusercontent.com/102893855/162547715-b60c0ab4-3ce5-4b97-82d4-baa7c65293fb.png"><img width="299" alt="image" src="https://user-images.githubusercontent.com/102893855/162548405-d30129cf-b460-4d12-92af-bf93186f6067.png">
+ <img width="180" alt="image" src="https://user-images.githubusercontent.com/102893855/162547715-b60c0ab4-3ce5-4b97-82d4-baa7c65293fb.png">   <img width="299" alt="image" src="https://user-images.githubusercontent.com/102893855/162548405-d30129cf-b460-4d12-92af-bf93186f6067.png">
 
 
 It is beneficial for a nation's economy to have a successful international football team. 
