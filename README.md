@@ -4,20 +4,6 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 ---
 
-### Congrats on completing the [2022 SOA Research Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/)!
-
-This is written in markdown language. 
->
-* Click [4001 link](https://classroom.github.com/a/ggiq0YzO) to accept your group assignment.
-* Click [5100 link](https://classroom.github.com/a/uVytCqDv) to accept your group assignment 
-
-#### Follow the [guide doc](Doc1.pdf) to submit your work. 
----
->Be creative! Feel free to link to embed your [data](player_data_salaries_2020.csv), [code](sample-data-clean.ipynb), [image](ACC.png) here
-
-More information on GitHub Pages can be found [here](https://pages.github.com/)
-![](Actuarial.gif)
-
 ## Objectives 
  
  <img width="180" alt="image" src="https://user-images.githubusercontent.com/102893855/162547715-b60c0ab4-3ce5-4b97-82d4-baa7c65293fb.png">   <img width="299" alt="image" src="https://user-images.githubusercontent.com/102893855/162548405-d30129cf-b460-4d12-92af-bf93186f6067.png">
@@ -67,18 +53,13 @@ The team committee will monitor the performance of players each season utilising
 
 We define a simple metric to measure the performance:
 
-Performance Score (p.score) = W + 0.5D
-where  W = Win and;
-	D = Draw
+![](pscore.formula1.png)
 
 _Data is sourced from League Goalkeeping. League statistics are used as data quality is better than Tournament (38 games for all squads, less missing observations)_
 
 To account for squads with multiple goalkeepers, the p.score is weighted by the proportion of minutes played for each GK. This gives:
 
-p.score = ∑_(for all i)▒〖ω_i (W_i+0.5D_i)〗
- where ω_i  =  (Playing time Min of goalkeeper i)/(∑_(for all i)▒〖Playing time Min of goalkeeper i〗)  and;
-
-i = number of goalkeepers in a squad
+![](pscore.formula2.png)
 
 The p.score is then mapped to all players in that squad. All players in the same squad will have the same p.score
 
@@ -115,8 +96,19 @@ Explore the [code](teamselection.R) here!
 
 ---
 
+All considered risks are captured in a lIklihood-Impact plane.
+
 <img width="700" alt="image" src="https://github.com/ACTL5100-T1-2022/github-showcase-page-aim-high/blob/main/riskmap.fig10.png">
 
+We see that Economic Recession is both high Impact and high Lkelihood, and thus a key risk. Further investigation of this risk is conducted below:
+
+#### Economic Recession
+
+* Overview
+
+	COVID-19 has had immense global economic impact and shifted broader policies of Central Banks. With most nations still recovering from lockdowns and international mobility restrictions in place, inflation has been at record-highs. Changes in the economic backdrop will affect project revenues and fund performance, thus decreasing free cash flow generated.
+
+* Assessment
 
 | Scenarios  | Assumptions |
 | ------------- | ------------- |
@@ -128,6 +120,12 @@ Explore the [code](teamselection.R) here!
 
 ![](sensitivity.fig12.png)
 
+We consider the three scenarios above. Future cash flows appear highly sensitive to revenue growth rates. This is further investigated through sensitivity analysis and we recommend a tolerable range of >-10% deviation of actual experience from projected growth. 
+
+* Treatment
+
+	Market risk is hedged through derivatives to minimise rate exposure and protect from sizable equity market crashes. Diversification in revenue sources and increase in the spectrum of marketable securities held will also alleviate this risk.
+	
 ---
 
 ## Data and Data Limitation
